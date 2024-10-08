@@ -4,7 +4,7 @@ Utilizando as mais recentes tecnologias de desenvolvimento web e mobile para cri
 
 ## Projetos
 
-### [Portfólio](https://github.com/manuelazotavio/portfolio)
+### [Portfólio](https://github.com/manuelazotavio/portifolio)
 Projeto de portfólio pessoal onde exibo minhas habilidades e projetos realizados. Utilizei HTML, CSS, JavaScript e Bootstrap para criar uma interface intuitiva e funcional, destacando os projetos de maneira visualmente atraente e responsiva.
 
 ### [Cooking](https://github.com/manuelazotavio/Development)
