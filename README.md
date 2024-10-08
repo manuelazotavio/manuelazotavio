@@ -1,19 +1,19 @@
 # Manuela Otavio
 
-Harnessing the latest web & mobile development technologies to create impactful projects.
+Utilizando as mais recentes tecnologias de desenvolvimento web e mobile para criar projetos impactantes.
 
-## Projects
+## Projetos
+
+### [Portfólio](https://github.com/manuelazotavio/portfolio)
+Projeto de portfólio pessoal onde exibo minhas habilidades e projetos realizados. Utilizei HTML, CSS, JavaScript e Bootstrap para criar uma interface intuitiva e funcional, destacando os projetos de maneira visualmente atraente e responsiva.
 
 ### [Cooking](https://github.com/manuelazotavio/Development)
-Dedicated to a project about recipes, featuring modern technologies like React Native, JavaScript, and CSS. Includes practical examples and projects to enhance frontend skills.
+Dedicado a um projeto sobre receitas, utilizando tecnologias modernas como React Native, JavaScript e CSS. Inclui exemplos práticos e projetos para aprimorar habilidades de frontend.
 
 ### [BackCooking](https://github.com/manuelazotavio/backCooking)
-Backend of the recipe app. Techonologies used includes NodeJs, Express, Zod, Prisma, Postgres, Javascript and more.
+Backend do aplicativo de receitas. Tecnologias utilizadas incluem NodeJs, Express, Zod, Prisma, Postgres, Javascript e mais.
 
-### [Projeto Integrador 2: Bus Interface](https://github.com/lucas2007c/pi2-interface-onibus)
-A collaborative project focused on creating a bus system interface using EJS and other web technologies. Involves multiple contributors.
+### [Projeto Integrador 2: Interface de Ônibus](https://github.com/lucas2007c/pi2-interface-onibus)
+Projeto colaborativo focado na criação de uma interface de sistema de ônibus utilizando EJS e outras tecnologias web. Envolve diversos colaboradores.
 
-## Philosophy
-"Persistence is unmatched. Talent is common; many talented individuals fail. Genius is not enough; unrecognized genius is a cliché. Education alone doesn't guarantee success. The world is full of educated individuals who don't reach their potential. Persistence and determination are the true keys to power."
-
-Feel free to explore my projects and reach out if you have any questions or suggestions.
+Sinta-se à vontade para explorar meus projetos e entrar em contato caso tenha dúvidas ou sugestões.
