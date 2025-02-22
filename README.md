@@ -1,9 +1,14 @@
 # Olá, sou a Manuela Otavio 👋
 
-Vivo em São Paulo, Caraguatatuba.
+Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP. Formada em Técnico em Informática para Internet, também pelo IFSP.
 
-Sou uma **Desenvolvedora Fullstack** apaixonada por tecnologia! 🧑‍💻  
-Focada em **JavaScript**, **ReactJS**, **Node.js**, **C#** e **Bootstrap** 💻
+Tenho vivência em projetos reais em equipe, o que fez eu desenvolver a habilidade de comunicação e o uso de metodologias ágeis. Também tive a experiência com atendimento ao cliente, o que colaborou para o gerenciamento de trabalhos sob pressão.
+
+Possuo proficiência avançanda em inglês, sendo capaz de ler, escrever, ouvir e falar confortavelmente.
+
+Confira os detalhes de meus projetos em meu portifólio: 
+
+https://manuelaotavio.vercel.app
 
 ## Conecte-se comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manuela-otavio-8aa5592b7/)
