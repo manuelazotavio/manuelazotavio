@@ -25,7 +25,7 @@ https://manuelaotavio.vercel.app
 [![WordPress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 ## GitHub Streak
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=manuelazotavio)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=manuelazotavio)](https://git.io/streak-stats)
 
 ## Projetos em Destaque
 - [Cooking](https://github.com/manuelazotavio/Development)
