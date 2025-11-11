@@ -1,4 +1,4 @@
-# Olá, sou a Manuela Otavio 👋
+# Olá, sou a Manuela Otavio.
 
 Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP. Formada em Técnico em Informática para Internet, também pelo IFSP.
 
