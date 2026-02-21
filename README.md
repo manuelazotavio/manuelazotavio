@@ -1,6 +1,6 @@
 # Olá, sou a Manuela Otavio.
 
-Tenho 18 anos e sou estudante de Análise e Desenvolvimento de Sistemas no IFSP. Formada em Técnico em Informática para Internet, também pelo IFSP.
+Tenho 19 anos e sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal de São Paulo. Formada em Técnico em Informática para Internet, também pelo IFSP.
 
 Tenho vivência em projetos reais em equipe, o que fez eu desenvolver a habilidade de comunicação e o uso de metodologias ágeis. Também tive a experiência com atendimento ao cliente, o que colaborou para o gerenciamento de trabalhos sob pressão.
 
