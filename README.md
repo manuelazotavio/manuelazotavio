@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Manuela Otavio da Silva 👋</h1>
+<h1 align="center">Hi, I'm Manuela Otavio da Silva</h1>
 
 <p align="center">
   <b>Fullstack Developer</b> · <b>AI Researcher</b> · <b>Co-founder at Rumo Viagens</b><br>
@@ -14,7 +14,7 @@
 
 ---
 
-## 👩‍💻 About me
+## About me
 
 I'm 19 years old and a student of **Systems Analysis and Development** at the **Federal Institute of São Paulo (IFSP)**, where I also completed my **Technical Degree in Internet Informatics**.
 
@@ -22,21 +22,21 @@ I have hands-on experience with real projects in teams, which sharpened my commu
 
 I have **advanced English**: I can read, write, listen and speak comfortably.
 
-## 🚀 What I'm up to
+## What I'm up to
 
-- 💼 **Fullstack Developer** at iiBrasil, working on B2B and B2C systems (PHP/Laravel, Vue.js, React Native, MySQL)
-- 🧠 **AI Researcher** at IFSP, working on multimodal pipelines with speech-to-text, speaker diarization, computer vision and NLP
-- 🧭 **Co-founder and development lead** of [Rumo Viagens](https://rumoviagens.com.br), a platform for tourism in the north coast of São Paulo
+- **Fullstack Developer** at iiBrasil, working on B2B and B2C systems (PHP/Laravel, Vue.js, React Native, MySQL)
+- **AI Researcher** at IFSP, working on multimodal pipelines with speech-to-text, speaker diarization, computer vision and NLP
+- **Co-founder and development lead** of [Rumo Viagens](https://rumoviagens.com.br), a platform for tourism in the north coast of São Paulo
 - 🎓 Studying for my degree in Systems Analysis and Development (2025 to 2027)
 
 ## 🏆 Highlights
 
 - 🥇 **Two-time champion** of the IFSP Caraguatatuba Hackathon (2025 and 2026)
 - 🥈 **2nd place** in the local stage of the InterIF 2026 Programming Marathon
-- ⚡ Cut average backend latency from **1,800ms to about 650ms** by refactoring REST APIs and optimizing SQL queries
-- 🧑‍⚖️ Judge at the regional stage of the Brazilian Robotics Olympiad
+- Cut average backend latency from **1,800ms to about 650ms** by refactoring REST APIs and optimizing SQL queries
+- Judge at the regional stage of the Brazilian Robotics Olympiad 2026
 
-## 🛠️ Tech stack
+## Tech stack
 
 **Languages**
 
@@ -68,11 +68,11 @@ I have **advanced English**: I can read, write, listen and speak comfortably.
 
 **Cloud and DevOps**
 
+[![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)](https://aws.amazon.com/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![WordPress](https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white)](https://wordpress.org/)
 
 ## 📌 Featured projects
 
